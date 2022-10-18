@@ -2,7 +2,7 @@
 
 > Status: Não Finalizado ⛔
 
-## É um projeto desenvolvido para uma aula de Desenvolvimento Web/Mobile II no curso de Engenharia de Software, trata-se de um site sobre o Museu Nacional do Brasil
+### É um projeto desenvolvido para uma aula de Desenvolvimento Web/Mobile II no curso de Engenharia de Software, trata-se de um site sobre o Museu Nacional do Brasil
 
 ## Alguns campos do Modelo Main são:
 
