@@ -2,6 +2,8 @@
 
   O Museu Nacional é um projeto criado durante uma aula de Desenvolvimento WEB/Mobile II no curso de Engenharia de Software, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo uma página WEB do Museu Nacional do Brasil, contendo notícias e informações sobre o local.
 
+![print projeto](https://github.com/GABRIEL-ASSYS/Museu-Nacional/blob/main/img/print.png)
+
 ## 🚀 Começando
 
 Essas intruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
