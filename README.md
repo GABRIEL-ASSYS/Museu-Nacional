@@ -1,4 +1,4 @@
-# Museu Nacional
+# Museu Nacional 🏛️
 
   O Museu Nacional é um projeto criado durante uma aula de Desenvolvimento WEB/Mobile II no curso de Engenharia de Software, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo uma página WEB do Museu Nacional do Brasil, contendo notícias e informações sobre o local.
 
